@@ -1,0 +1,262 @@
+.header{
+    background: white;
+    width:100%;
+    height:87px;
+}
+.content{
+    background: beige;
+    width: 73%;
+    height: 400px;
+    margin-top: 5px;
+    border: 1px solid black;
+}
+.head1{
+    background: rgb(193, 181, 247);
+    width:21%;
+    height:87px;
+
+}
+.head2{
+    background: rgb(193, 181, 247);
+    width: 25%;
+    height: 87px;
+    margin-left: 288px;
+    margin-top: -87px;
+}
+.head3{
+    background: rgb(193, 181, 247);
+    width: 54%;
+    height: 87px;
+    margin-left: 631px;
+    margin-top: -87px;
+}
+.btn{
+    margin-left: 45px;
+    margin-top: 51px;
+    padding: 6px;
+    border-radius: 7px;
+    border-color: black;
+    background: white;
+}
+.btnn{
+    margin-left: 20px;
+    margin-top: 39px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    background-color: yellow;
+    
+}
+.btun{
+    margin-left: 10px;
+    padding-bottom: 9px;
+    width: 17%;
+    background: white;
+}
+.bton{
+    background-color: white;
+    margin-left: 10px;
+    padding-top: 16px;
+    padding-bottom: 1 px;
+    padding-bottom: 9px;
+}
+.bt{
+    background-color: white;
+    margin-left:10px;
+    padding-top: 16px;
+    padding-bottom: 1 px;
+    padding-bottom: 9px;
+
+}
+.para{
+    font-size: 12px;
+    margin-left: 347px;
+    padding-top: 200px;
+    margin-bottom:-58px;
+}
+.image{
+    margin-left:430px;
+}
+.left{
+    background:light rgb(206, 206, 233);
+    width: 371px;
+    margin-left: 977px;
+    height:400px;
+    margin-top: -402px;
+    padding-left:16px;
+    position:relative;
+    border: 1px solid black;
+}
+.fwdbtn{
+    margin-top:6px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 97px;
+    height: 64px;
+    border-width: 1px;
+    border-radius: 12px;
+    background: rgb(163, 222, 245);
+    font-size: 18px;
+    margin-left:106px;
+    position:absolute;
+    top:0;
+    cursor:pointer;
+    
+}
+.leftbtn{
+    background: rgb(163, 222, 245);
+    font-size:18px;
+    width:97px;
+    height:64px;
+    border-width:1px;
+    border-radius:12px;
+    position:absolute;
+    bottom:258px;
+    left:14px;
+    cursor:pointer;
+}
+.stopbtn{
+    background:rgb(163, 222, 245);
+    width:97px;
+    height:64px;
+    font-size:18px;
+    border-width:1px;
+    border-radius:12px;
+    position:absolute;
+    margin-left: 106px;
+    margin-top: 78px;
+    cursor:pointer;
+}
+.rightbtn{
+    background:rgb(163, 222, 245);
+    width:97px;
+    height:64px;
+    font-size:18px;
+    border-width:1px;
+    border-radius:12px;
+    position:absolute;
+    margin-left: 214px;
+    margin-top: 78px;
+    cursor:pointer;
+
+}
+.backbtn{
+    background:rgb(163, 222, 245);
+    width:97px;
+    height:64px;
+    font-size:18px;
+    border-width:1px;
+    border-radius:12px;
+    position:absolute;
+    margin-left: 106px;
+    margin-top: 151px;
+    cursor:pointer;
+}
+
+
+.speed-container{
+    margin-top: 233px;
+    margin-left: 45px;
+}
+.footer{
+    background: white;
+    width: 104%;
+    height: 200px;
+}
+.ftr1{
+    background: rgb(193, 181, 247);
+    width:19%;
+    height:87px;
+    margin-top:9px;
+}
+.btn1{
+    margin-left: 43px;
+    width: 50px;
+    height: 32px;
+    background: white;
+    border-radius: 7px;
+    margin-top:25px;
+    cursor: pointer;
+
+}
+.btn2{
+    margin-left: 43px;
+    width: 50px;
+    height: 32px;
+    background: white;
+    border-radius: 7px;
+    cursor: pointer;
+}
+.ftr2{
+    background: rgb(193, 181, 247);
+    width: 19%;
+    height: 87px;
+    margin-top: -87px;
+    margin-left:268px;
+}
+.btn3{
+    margin-left: 43px;
+    width: 50px;
+    height: 32px;
+    background: white;
+    border-radius: 7px;
+    margin-top:25px;
+    cursor: pointer;
+}
+.ftr3{
+    background: rgb(193, 181, 247);
+    width: 19%;
+    height: 87px;
+    margin-top: -87px;
+    margin-left:537px;
+}
+.btn4{
+    margin-left: 24px;
+    width: 50px;
+    height: 32px;
+    background: white;
+    border-radius: 7px;
+    margin-top:6px;
+    cursor: pointer;
+}
+.inpt{
+    margin-top: 22px;
+    margin-left: 11px;
+}
+.btn5{
+    margin-left: 40px;
+    width: 50px;
+    height: 32px;
+    background: white;
+    border-radius: 7px;
+    margin-top:6px;
+    cursor: pointer;
+
+}
+.btn6{
+    margin-left: 40px;
+    width: 50px;
+    height: 32px;
+    background: white;
+    border-radius: 7px;
+    margin-top:6px;
+    cursor: pointer;
+}
+.btn-container{
+    height: -1px;
+    width: 0px;
+    margin-top: -86px;
+    margin-left: 696px;
+    background: rgb(193, 181, 247);
+}
+.img{
+    width: 68px;
+    margin-left: 21px;
+    margin-top: 43px;
+}
+.img1{
+    width: 68px;
+    margin-left: 21px;
+    margin-top: 43px;
+}

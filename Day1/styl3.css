@@ -1,0 +1,14 @@
+h1{
+    color:red;
+    font-size:57px;
+    font-weight:bolder;
+    text-align:center
+}
+p{
+    color:blue;
+    font-size:35px;
+
+}
+.container{
+    text-align:center;
+}

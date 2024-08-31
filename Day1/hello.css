@@ -1,0 +1,25 @@
+.divi{
+    background: red;
+    width:100%;
+    height:80px;
+}
+.div2{
+    background: green;
+    width:100%;
+    height:80px;
+}
+.div3{
+    background: blue;
+    width:100%;
+    height:80px;
+}
+.dv{
+    background: brown;
+    width:30%;
+    height:48px;
+}
+.dv2{
+    background: greenyellow;
+    width:40%;
+    height:49px;
+}
